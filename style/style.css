@@ -1,0 +1,30 @@
+
+/* login Page */
+.login-main-container{
+    height: 98vh;
+    display: flex;
+    align-items: center;
+}
+
+.form-container{
+    width: 28%;
+    margin: 0 auto;
+    padding: 25px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.mainheading{
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.mainForm{
+    margin-top: 40px;
+}
+
+.resgister-part{
+    display: flex;
+    flex-direction: column;
+}
